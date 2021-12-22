@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//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
+
 int main()
 {
 	//1 + 2 + 3 + 4 + ... + 100 을 반복문으로 구해보시오
