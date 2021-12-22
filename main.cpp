@@ -31,5 +31,6 @@ int main()
 //		Avg = static_cast<float>(Sum) / 100.0f;
 //		cout << Avg << endl;
 
+
 	return 0;
 }
