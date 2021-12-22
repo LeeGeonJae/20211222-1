@@ -19,6 +19,8 @@ int main()
 	cout << Area << endl;
 
 	//집에서 한거
+	
+	//학원에서 한거
 
 	return 0;
 }
