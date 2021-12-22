@@ -13,10 +13,12 @@ int main()
 	cin >> Height;
 	cin >> Base;
 
-	Area = (static_cast<float>(Height) +
+	Area = (static_cast<float>(Height) *
 		static_cast<float>(Base)) / 2.0f;
 
 	cout << Area << endl;
+
+	//집에서 한거
 
 	return 0;
 }
