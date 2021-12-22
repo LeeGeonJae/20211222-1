@@ -19,17 +19,17 @@ int main()
 	//1 - 100까지 합과 평균을 구하세요.
 	//Sum = Sum + 1;
 	//Sum = Sum + 2;
-	int Sum = 0;
-	float Avg = 0.0f;
-
-		for (int i = 1; i <= 100; i = i++)
-	{
-		Sum = Sum + i;
-		cout << Sum << ", ";
-	}
-		cout << endl;
-		Avg = static_cast<float>(Sum) / 100.0f;
-		cout << Avg << endl;
+//	int Sum = 0;
+//	float Avg = 0.0f;
+//
+//		for (int i = 1; i <= 100; i = i++)
+//	{
+//		Sum = Sum + i;
+//		cout << Sum << ", ";
+//	}
+//		cout << endl;
+//		Avg = static_cast<float>(Sum) / 100.0f;
+//		cout << Avg << endl;
 
 	return 0;
 }
